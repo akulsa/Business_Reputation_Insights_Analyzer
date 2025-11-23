@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+matplotlib
+transformers
+torch
+openai
+python-dotenv
+google-generativeai
+wordcloud
