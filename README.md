@@ -16,7 +16,7 @@ pinned: false
 
 Try the live application here:
 
-👉 **https://huggingface.co/spaces/shovidhyan/Business_Reputation_Insights_Analyzer**
+👉 **https://huggingface.co/spaces/akulsakthii/Business_Reputation_Insights_Analyzer**
 
 
 This project analyzes customer reviews from **Google Maps** or **CSV datasets** using advanced AI techniques:
